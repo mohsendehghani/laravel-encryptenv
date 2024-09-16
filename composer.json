@@ -6,6 +6,8 @@
         "mrgswift",
         "laravel-encryptenv"
     ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "homepage": "https://github.com/mrgswift/laravel-encryptenv",
     "license": "MIT",
     "authors": [
